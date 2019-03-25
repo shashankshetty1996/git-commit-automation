@@ -4,7 +4,7 @@ This shell script can be used to automate git basic process, such as git add, gi
 This script can be used as shown
 
 ```
-./git/sh
+./git.sh
 ```
 This will be pointing to **origin** as it's default remote and **current branch** in which we are making changes.This will be prompting you commit message. Commit message should have message pattern as follows: 
 
